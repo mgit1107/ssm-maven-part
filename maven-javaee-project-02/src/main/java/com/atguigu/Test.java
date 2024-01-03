@@ -5,5 +5,6 @@ public class Test {
         System.out.println("-----------测试提交1-----------");
         System.out.println("-----------测试提交2-----------");
         System.out.println("-----------develop提交-----------");
+        System.out.println("-----------master提交-----------");
     }
 }
